@@ -13,7 +13,7 @@ Foreningens hjemsted er Selma Lagerløfs Vej 300, 9220 Aalborg Ø.
 # Kap. 2 Formål
 
 ## § 2
-Foreningen er en studenterpolitisk forening, men det formål er at sikre og udvikle de studerende ved Studienævn for Datalogis position ved Aalborg Universitet; socialt, fagligt og politisk.
+Foreningen er en studenterpolitisk forening, med det formål er at sikre og udvikle de studerende ved Studienævn for Datalogis position ved Aalborg Universitet; socialt, fagligt og politisk.
 
 # Kap. 3 Generalforsamling
 

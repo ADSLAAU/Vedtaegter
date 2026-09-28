@@ -83,7 +83,8 @@ Bestyrelsen består af:
 1. Formand
 2. Næstformand
 3. Kasserer
-4. To til fem ordinære medlemmer
+4. Særlig rådgiver
+5. To til fem ordinære medlemmer
 
 **Stk. 1**  
 Bestyrelsen konstituerer sig selv ved et bestyrelsesmøde.

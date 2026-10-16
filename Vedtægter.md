@@ -1,6 +1,6 @@
 # Vedtægter ADSL
 
-Vedtægterne er besluttet og opdateret ved generalforsamling 2024-10-23. Ændring til regnskabsåret.
+Vedtægterne er besluttet og opdateret ved generalforsamling 2026-09-30. Ændring til regnskabsåret.
 
 # Kap. 1 Navn og tilhørsforhold
 
